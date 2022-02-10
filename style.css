@@ -30,6 +30,12 @@ body {
   position: absolute;
   right: 30px;
   top: 30px;
+  transition: 1s;
+}
+
+.sign-in:hover {
+  background-color: #34b7e7;
+  color: white;
 }
 
 /* Welcome-message */
